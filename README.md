@@ -4,4 +4,5 @@ This is a part of the Google Professional Certificate for Data Analytics capston
 The technologies using for the project:
 * Microsoft Excel for initial review the data.
 * Python and Jupyter notebook/lab for data processing and cleaning.
-* Tableau for dashboard and main visualization.
+* Python and Jupyter notebook/lab for exploratory data analysis and visualizations.
+* Microsoft Word for documenting data-cleaning process; and summary report.
